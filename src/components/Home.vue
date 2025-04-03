@@ -1,5 +1,5 @@
 <template>
-	<div id="home" class="min-h-dvh max-w-screen bg-[url(../src/assets/img/coffee.jpg)] bg-no-repeat bg-cover bg-[-23em] pt-20 md:bg-center">
-		<h1 class="pt-28 font-['Oxanium'] font-bold text-6xl text-center text-white leading-13 animate-fade-in-scale md:pt-20 md:text-[3.5em] lg:text-[4.5em]">Start your day with <span class="text-amber-300">coffee</span></h1>
+ 	<div id="home" class="relative min-h-screen bg-[url('../src/assets/img/coffee.jpg')] overflow-hidden bg-cover bg-no-repeat bg-center mt-22 py-36 md:py-60 lg:py-80 xl:pb-120 2xl:pb-400">
+ 		<h1 class="font-['Oxanium'] font-bold text-4xl text-center text-white animate-fade-in-scale md:text-5xl lg:text-6xl 2xl:text-7xl">Start your day with <span class="text-amber-300">coffee</span></h1>
 	</div>
 </template>

@@ -1,5 +1,5 @@
 <template>
-	<div id="about" class="bg-gradient-to-b  pt-24 from-[#200D01] to-[#0D0500] text-justify pb-40">
+	<div id="about" class="bg-gradient-to-b  pt-34 from-[#200D01] to-[#0D0500] text-justify pb-40">
 		<h1 class="font-['Oxanium'] font-semibold text-center text-white text-5xl m-auto pt-0 pb-20">About Us</h1>
 		
 		<div class="max-w-screen-2xl flex flex-wrap justify-between mx-auto items-center gap-10 px-5 pb-32">

@@ -1,7 +1,7 @@
 <template>
   <div class="max-w-screen border-t-2 border-t-amber-500 bg-amber-950 mx-auto font-['Oxanium'] font-semibold text-lg text-gray-300">
 	  <div class="w-full mx-auto justify-center text-center space-x-4 pt-5 pb-10 md:space-x-10">
-		  <a href="#home" class="hover:text-white">Home</a>
+		  <a href="#" class="hover:text-white">Home</a>
 		  <a href="#about" class="hover:text-white">About</a>
 		  <a href="#menus" class="hover:text-white">Menus</a>
 		  <a href="#contact" class="hover:text-white">Contact Us</a>
