@@ -6,6 +6,12 @@ import Coffee from "./components/Coffee.vue";
 import NonCoffee from "./components/NonCoffee.vue";
 import Contact from "./components/Contact.vue";
 import Footer from "./components/Footer.vue";
+
+import { onMounted } from 'vue'
+import { initFlowbite } from 'flowbite'
+onMounted(() => {
+	initFlowbite();
+})
 </script>
 
 <template>
