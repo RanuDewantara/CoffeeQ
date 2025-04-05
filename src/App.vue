@@ -18,7 +18,7 @@ onMounted(() => {
   <Navbar />
 	<Home />
 	<About />
-	<h1 id="menus" class="bg-[#0D0500] font-['Oxanium'] font-semibold text-center text-white text-[3em] pt-20">Menus</h1>
+	<h1 id="menus" class="bg-[#0D0500] font-['Oxanium'] font-semibold text-center text-white text-[3em] pt-24">Menus</h1>
 	<Coffee/>
 	<NonCoffee/>
 	<Contact/>
