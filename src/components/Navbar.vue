@@ -1,8 +1,8 @@
 <template>
-  <nav class="fixed left-0 right-0 w-full z-[9999] top-0 start-0 bg-[#2C0000] border-b-1 border-b-amber-800">
+  <nav class="fixed left-0 right-0 w-full z-[9999] top-0 start-0 bg-[#2C0000]">
     <div class="max-w-7xl flex flex-wrap items-center justify-between mx-auto md:px-5">
-      <a href="/" class="flex items-center space-x-3 rtl:space-x-reverse ms-5 md:ms-0">
-	      <img src="../assets/img/CoffeeQ.png" alt="CoffeeQ" class="h-22 p-2">
+      <a href="#" class="flex items-center space-x-3 rtl:space-x-reverse ms-5 md:ms-0">
+	      <img src="../assets/img/CoffeeQ.png" alt="CoffeeQ" class="h-24 p-2">
       </a>
       <button data-collapse-toggle="navbar-solid-bg" type="button" class="inline-flex items-center p-2 me-5 w-10 h-10 justify-center text-sm text-gray-500 rounded-lg md:hidden hover:bg-[#1C0000] focus:outline-none" aria-controls="navbar-solid-bg" aria-expanded="false">
 	      <svg class="w-5 h-5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 17 14">
