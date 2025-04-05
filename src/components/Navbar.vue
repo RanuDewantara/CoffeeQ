@@ -4,7 +4,7 @@
       <a href="#" class="flex items-center space-x-3 rtl:space-x-reverse ms-5 md:ms-0">
 	      <img src="../assets/img/CoffeeQ.png" alt="CoffeeQ" class="h-24 p-2">
       </a>
-      <button data-collapse-toggle="navbar-solid-bg" type="button" class="inline-flex items-center p-2 me-5 w-10 h-10 justify-center text-sm text-gray-500 rounded-lg md:hidden hover:bg-[#1C0000] focus:bg-[#100000]" aria-controls="navbar-solid-bg" aria-expanded="false">
+      <button data-collapse-toggle="navbar-solid-bg" type="button" class="inline-flex items-center p-2 me-5 w-10 h-10 justify-center text-sm text-gray-500 rounded-lg md:hidden hover:bg-[#1C0000] focus:bg-[#100000] duration-100" aria-controls="navbar-solid-bg" aria-expanded="false">
 	      <svg class="w-5 h-5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 17 14">
           <path stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 1h15M1 7h15M1 13h15"/>
         </svg>
